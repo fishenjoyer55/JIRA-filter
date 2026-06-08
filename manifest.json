@@ -1,0 +1,11 @@
+{
+    "name": "mgexcelsus",
+    "version": "1.0.0",
+    "description": "erm what the scallop",
+    "manifest_version": 3,
+    "author": "John Gool",
+    "action": {
+        "default_popup": "sorter.html",
+        "default_title": "sorting in my car"
+    }
+}
